@@ -18,7 +18,7 @@ https://www.acss.min-saude.pt/2020/07/28/centros-de-responsabilidade-integrados/
   - Profissional da equipa (enfermagem)
     
 
-## Documento "Termos de Referência para contratualização de cuidados de saúde no SNS para 2023 ##
+## Documento "Termos de Referência para contratualização de cuidados de saúde no SNS para 2023" ##
 https://www.acss.min-saude.pt/wp-content/uploads/2016/10/Termos-Referencia-Contratualizacao_2023.pdf
 
 - Alargar o modelo de organização em Centros de Responsabilidade Integrado
