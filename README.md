@@ -36,6 +36,8 @@ https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-10759917
 > Regula o Regime Jurídico e os Estatutos aplicáveis às unidades de saúde do Serviço Nacional de Saúde com a natureza de Entidades Públicas Empresariais, bem como as integradas no Setor Público Administrativo
 
 - Revogado pelo Decreto-Lei n.º 52/2022, de 4 de agosto
+  - Neste novo decreto 52/2022, **desaparece** a seguinte alínea:
+    - h) Comportamento ético, deontológico e sentido de serviço público, cabendo a cada profissional do CRI a salvaguarda da legalidade e do interesse público, a defesa dos interesses do doente, a prossecução do melhor desempenho do CRI e da instituição em que se integra, devendo agir com honestidade, lisura e de acordo com a deontologia e as boas práticas;
 
 
 ## Decreto-Lei n.º 52/2022, de 4 de agosto ##
@@ -160,3 +162,17 @@ https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-114834104 (
 - Artigo 20.º
 
   - O CRI possui competências nas áreas do ensino, formação e investigação que lhe permitam ministrar formação pré e pós-graduada e realizar investigação científica, de modo a maximizar o potencial inovador das ciências e das tecnologias da saúde, fomentar a investigação científica nacional e internacional e otimizar os procedimentos tendo em vista a maximização dos resultados clínicos e gestionários.
+ 
+-  Neste diploma versão original, no Artigo 3.º alínea 3 do Anexo, dizia:
+ _ - 3 - O conselho de administração pode, fundamentadamente, dispensar a exigência de dedicação exclusiva até um máximo de 20 % do pessoal de cada grupo profissional previsto nas alíneas do n.º 1._
+- No entanto, como já vimos anteriormente, a Portaria n.º 71/2018, de 8 de março alterou essa alínea para:
+  _- 2 - Sem prejuízo do disposto no número seguinte, o pessoal a afetar ao CRI deve preferencialmente exercer toda a sua atividade profissional na instituição.
+  - 3 - A regra prevista no número anterior pode ser dispensada por deliberação fundamentada do conselho de administração._
+
+## Ordem dos Médicos ##
+https://ordemdosmedicos.pt/centros-de-responsabilidade-integrada-proposta-de-portaria-e-inaceitavel/
+
+> Centros de Responsabilidade Integrada – proposta de portaria é inaceitável
+> Divulgamos a posição que a Ordem dos Médicos transmitiu à ACSS sobre a proposta de Portaria relativa aos Centros de Responsabilidade Integrada, em que qualifica a proposta como “inaceitável” apontando as razões.
+
+- _4 - É aplicado o regime exclusividade de funções aos elementos da equipa multidisciplinar, mas a proposta de portaria abre a possibilidade de 20% dos elementos de cada grupo não a terem, solução esta que se releva complexa e potenciadora de focos de conflitos entre profissionais; acresce que, para aqueles elementos a quem não seja dada a possibilidade de acumulação de funções, não se encontra prevista qualquer forma de compensação remuneratória;_
