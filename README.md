@@ -139,12 +139,21 @@ _in_ https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-114834
 
   - 5 - A prestação de trabalho prevista no ponto anterior está dependente da demonstração da insuficiência de recursos afetos ao CRI em regime normal para a prestação dos serviços requeridos.
 
-Artigo 13.º
- - Sem prejuízo da autonomia e respetiva hierarquia funcional garantida aos médicos, enfermeiros, técnicos e restantes profissionais de saúde, a equipa multidisciplinar desenvolve a sua atividade sob a coordenação, orientação e supervisão do conselho de gestão do CRI.
-2 - Caso o CRI esteja organizado em Serviços e Unidades Funcionais podem ser delegadas nos respetivos diretores ou coordenadores as funções de gestão do pessoal que lhes estiver afeto.
-3 - A avaliação de desempenho dos profissionais que integram o CRI observa o regime jurídico fixado sobre a matéria no estatuto legal da respetiva carreira profissional.
- 
-1 - Qualquer elemento da equipa multidisciplinar do CRI pode deixar de a integrar se, com a antecedência de 60 dias relativamente à data prevista da saída:
-a) Apresentar um pedido de cessação das suas funções ao diretor do conselho de gestão do CRI e comunicar tal intenção ao conselho de administração da instituição e, sendo o caso, ao serviço de origem;
+- Artigo 13.º
+  
+  1 - Sem prejuízo da autonomia e respetiva hierarquia funcional garantida aos médicos, enfermeiros, técnicos e restantes profissionais de saúde, a equipa multidisciplinar desenvolve a sua atividade sob a coordenação, orientação e supervisão do conselho de gestão do CRI.
+  
+  2 - Caso o CRI esteja organizado em Serviços e Unidades Funcionais podem ser delegadas nos respetivos diretores ou coordenadores as funções de gestão do pessoal que lhes estiver afeto.
+  
+  3 - A avaliação de desempenho dos profissionais que integram o CRI observa o regime jurídico fixado sobre a matéria no estatuto legal da respetiva carreira profissional.
 
-O CRI possui competências nas áreas do ensino, formação e investigação que lhe permitam ministrar formação pré e pós-graduada e realizar investigação científica, de modo a maximizar o potencial inovador das ciências e das tecnologias da saúde, fomentar a investigação científica nacional e internacional e otimizar os procedimentos tendo em vista a maximização dos resultados clínicos e gestionários.
+
+- Artigo 15.º
+
+  - 1 - Qualquer elemento da equipa multidisciplinar do CRI pode deixar de a integrar se, com a antecedência de 60 dias relativamente à data prevista da saída:
+    - a) Apresentar um pedido de cessação das suas funções ao diretor do conselho de gestão do CRI e comunicar tal intenção ao conselho de administração da instituição e, sendo o caso, ao serviço de origem;
+
+
+- Artigo 20.º
+
+  - O CRI possui competências nas áreas do ensino, formação e investigação que lhe permitam ministrar formação pré e pós-graduada e realizar investigação científica, de modo a maximizar o potencial inovador das ciências e das tecnologias da saúde, fomentar a investigação científica nacional e internacional e otimizar os procedimentos tendo em vista a maximização dos resultados clínicos e gestionários.
