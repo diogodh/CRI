@@ -1,10 +1,10 @@
 # CRI - Centro de Responsabilidade Integrado
 
-Compilação de várias fontes de informação legal relativa aos Centros de Responsabilidade Integrados dos Hospitais E.P.E. do SNS.
+> Compilação de várias fontes de informação legal relativa aos Centros de Responsabilidade Integrados dos Hospitais E.P.E. do SNS.
 
 
-**Página dos CRI da ACSS**
-_in_ https://www.acss.min-saude.pt/2020/07/28/centros-de-responsabilidade-integrados/
+## Página dos CRI da ACSS ##
+https://www.acss.min-saude.pt/2020/07/28/centros-de-responsabilidade-integrados/
 
 - Obetivo: incentivar desenvolver atividade exclusivamente no SNS
   
@@ -18,8 +18,8 @@ _in_ https://www.acss.min-saude.pt/2020/07/28/centros-de-responsabilidade-integr
   - Profissional da equipa (enfermagem)
     
 
-**Documento "Termos de Referência para contratualização de cuidados de saúde no SNS para 2023"**
-_in_ https://www.acss.min-saude.pt/wp-content/uploads/2016/10/Termos-Referencia-Contratualizacao_2023.pdf
+## Documento "Termos de Referência para contratualização de cuidados de saúde no SNS para 2023 ##
+https://www.acss.min-saude.pt/wp-content/uploads/2016/10/Termos-Referencia-Contratualizacao_2023.pdf
 
 - Alargar o modelo de organização em Centros de Responsabilidade Integrado
   
@@ -30,46 +30,46 @@ _in_ https://www.acss.min-saude.pt/wp-content/uploads/2016/10/Termos-Referencia-
 
 
 
-**Decreto de Lei 18/2017, de 10 de fevereiro**
-_in_ https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-107599171
+## Decreto de Lei 18/2017, de 10 de fevereiro ##
+https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-107599171
 
-_Regula o Regime Jurídico e os Estatutos aplicáveis às unidades de saúde do Serviço Nacional de Saúde com a natureza de Entidades Públicas Empresariais, bem como as integradas no Setor Público Administrativo_
+> Regula o Regime Jurídico e os Estatutos aplicáveis às unidades de saúde do Serviço Nacional de Saúde com a natureza de Entidades Públicas Empresariais, bem como as integradas no Setor Público Administrativo
 
 - Revogado pelo Decreto-Lei n.º 52/2022, de 4 de agosto
 
 
-**Decreto-Lei n.º 52/2022, de 4 de agosto**
-_in_ https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881 
+## Decreto-Lei n.º 52/2022, de 4 de agosto ##
+https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881 
 
-_Aprova o Estatuto do Serviço Nacional de Saúde_
+> Aprova o Estatuto do Serviço Nacional de Saúde
 
 Artigo 91.º
 - d) Cooperação e solidariedade entre os elementos que constituem o CRI, e de cada CRI perante a restante instituição;
 - e) Articulação, com as demais estruturas e serviços da instituição;
 
 
-**Portaria n.º 147/2017, de 27 de abril**
-_in_ https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2018-115366795
+## Portaria n.º 147/2017, de 27 de abril ##
+https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2018-115366795
 
-_Regula o Sistema Integrado de Gestão do Acesso dos utentes ao Serviço Nacional de Saúde (SIGA SNS)_
+> Regula o Sistema Integrado de Gestão do Acesso dos utentes ao Serviço Nacional de Saúde (SIGA SNS)
 
 - Sem referência significativa aos CRI.
 
 
-**Portaria n.º 153/2017, de 4 de maio**
-_in_ https://diariodarepublica.pt/dr/detalhe/portaria/153-2017-106970981
+## Portaria n.º 153/2017, de 4 de maio ##
+https://diariodarepublica.pt/dr/detalhe/portaria/153-2017-106970981
 
-_Define os Tempos Máximos de Resposta Garantidos (TMRG) no Serviço Nacional de Saúde para todo o tipo de prestações de saúde sem caráter de urgência e aprova e publica a Carta de Direitos de Acesso aos Cuidados de Saúde pelos Utentes do SNS_
+> Define os Tempos Máximos de Resposta Garantidos (TMRG) no Serviço Nacional de Saúde para todo o tipo de prestações de saúde sem caráter de urgência e aprova e publica a Carta de Direitos de Acesso aos Cuidados de Saúde pelos Utentes do SNS
 
 - Sem referência significativa aos CRI.
   
 - Interessante pois definie os tempos máximos para consultas, MCDT, cirurgias, etc.
 
 
-**Portaria n.º 207/2017, de 11 de julho**
-_in_ https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-116351585
+## Portaria n.º 207/2017, de 11 de julho ##
+https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-116351585
 
-_Aprova os Regulamentos e as Tabelas de Preços das Instituições e Serviços Integrados no Serviço Nacional de Saúde, procede à regulamentação do Sistema Integrado de Gestão de Inscritos para Cirurgia (SIGIC), que passa a integrar o Sistema Integrado de Gestão do Acesso (SIGA SNS), e define os preços e as condições em que se pode efetuar a remuneração da produção adicional_
+> Aprova os Regulamentos e as Tabelas de Preços das Instituições e Serviços Integrados no Serviço Nacional de Saúde, procede à regulamentação do Sistema Integrado de Gestão de Inscritos para Cirurgia (SIGIC), que passa a integrar o Sistema Integrado de Gestão do Acesso (SIGA SNS), e define os preços e as condições em que se pode efetuar a remuneração da produção adicional
 
 - Portaria com as tabelas de preços.
 
@@ -86,10 +86,10 @@ _Aprova os Regulamentos e as Tabelas de Preços das Instituições e Serviços I
   - 12 - O valor referido no n.º 4 do artigo 4.º é acrescido de 30 % quando os procedimentos realizados correspondam a patologia neoplásica maligna devidamente documentada por exames de anatomia patológica
 
 
-**Portaria 71/2018, de 8 de março**
-_in_ https://diariodarepublica.pt/dr/detalhe/portaria/71-2018-114832292
+## Portaria 71/2018, de 8 de março ##
+https://diariodarepublica.pt/dr/detalhe/portaria/71-2018-114832292
 
-Faz as seguintes alterações à Portaria n.º 330/2017, de 31 de outubro (que define o modelo do regulamento interno dos CRI)
+> Faz as seguintes alterações à Portaria n.º 330/2017, de 31 de outubro (que define o modelo do regulamento interno dos CRI)
 
 - _Tendo-se suscitado dúvidas quanto ao regime em que deverão laborar os trabalhadores que vierem a integrar os CRI, bem como do respetivo diretor, importa proceder à devida clarificação no sentido de terem preferência aqueles que exerçam toda a sua atividade profissional naquelas Unidades, sem prejuízo da possibilidade de exceções por deliberação fundamentada do Conselho de Administração._
 
@@ -104,8 +104,11 @@ Faz as seguintes alterações à Portaria n.º 330/2017, de 31 de outubro (que d
 
 
 
-**Portaria n.º 330/2017**
-_in_ https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-114834104 (versão consolidada)
+## Portaria n.º 330/2017, de 31 de outubro ##
+https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-114834104 (versão consolidada)
+
+> Define o modelo do regulamento interno dos serviços ou unidades funcionais das Unidades de Saúde do Serviço Nacional de Saúde (SNS), com a natureza de entidades públicas empresariais, dotadas de personalidade jurídica, autonomia administrativa, financeira e patrimonial, que se organizem em Centros de Responsabilidade Integrados (CRI)
+
 
 - Artigo 3.º
   - 4 - O recrutamento de profissionais externos ao ..., E. P. E., depende da fundamentada inexistência de colaboradores com o perfil adequado às necessidades do CRI, bem como da demonstração de imprescindibilidade dos elementos pretendidos, e de concordância expressa do conselho de administração.
