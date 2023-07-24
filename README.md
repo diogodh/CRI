@@ -36,7 +36,9 @@ https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-10759917
 > Regula o Regime Jurídico e os Estatutos aplicáveis às unidades de saúde do Serviço Nacional de Saúde com a natureza de Entidades Públicas Empresariais, bem como as integradas no Setor Público Administrativo
 
 - Revogado pelo Decreto-Lei n.º 52/2022, de 4 de agosto
+- 
   - Neste novo decreto 52/2022, **desaparece** a seguinte alínea:
+  - 
     - h) Comportamento ético, deontológico e sentido de serviço público, cabendo a cada profissional do CRI a salvaguarda da legalidade e do interesse público, a defesa dos interesses do doente, a prossecução do melhor desempenho do CRI e da instituição em que se integra, devendo agir com honestidade, lisura e de acordo com a deontologia e as boas práticas;
 
 
@@ -46,6 +48,7 @@ https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881
 > Aprova o Estatuto do Serviço Nacional de Saúde
 
 Artigo 91.º
+
 - d) Cooperação e solidariedade entre os elementos que constituem o CRI, e de cada CRI perante a restante instituição;
 - e) Articulação, com as demais estruturas e serviços da instituição;
 
