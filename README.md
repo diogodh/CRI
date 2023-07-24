@@ -5,6 +5,7 @@ Informação legal relativa aos Centros de Responsabilidade Integrados dos Hospi
 
 **Termos de Referência para contratualização de cuidados de saúde no SNS para 2023** 
 _in_ https://www.acss.min-saude.pt/wp-content/uploads/2016/10/Termos-Referencia-Contratualizacao_2023.pdf
+
 - Alargar o modelo de organização em Centros de Responsabilidade Integrado
 - A atividade realizada em CRI será remunerada nos mesmos moldes dos princípios genéricos de incentivo àatividade realizada nos CRe (Centros de Referência), nomeadamente:
   - Majoração em 20% do preços das 1as consultas e 10% nas consultas subsequentes e disponibilidade de urgência com equipas dedicadas
@@ -12,41 +13,78 @@ _in_ https://www.acss.min-saude.pt/wp-content/uploads/2016/10/Termos-Referencia-
   - Aplicação dos preços constantes na tabela dos SNS para faturação a entidades terceiras da atividade não faturável no âmbito dos Contratos-programa (proveitos extra contrato)
 
 
-  **Página dos CRI da ACSS**
-  _in_ https://www.acss.min-saude.pt/2020/07/28/centros-de-responsabilidade-integrados/
-  Obetivo: incentivar desenvolver atividade exclusivamente no SNS
-  Duração: 3 anos
-  Dedicacao exclusiva preferencial
+**Página dos CRI da ACSS**
+_in_ https://www.acss.min-saude.pt/2020/07/28/centros-de-responsabilidade-integrados/
 
-  Gestao CRI:
-    - Diretor: médico com competências em gestão, em dedicação exclusiva
-    - Aministrador hospitalar ou outro com experiência em gestão
-    - Profissional da equipa (enfermagem)
+- Obetivo: incentivar desenvolver atividade exclusivamente no SNS
+- Duração: 3 anos
+- Dedicacao exclusiva preferencial
+
+- Gestao CRI:
+  - Diretor: médico com competências em gestão, em dedicação exclusiva
+  - Aministrador hospitalar ou outro com experiência em gestão
+  - Profissional da equipa (enfermagem)
 
 
-  ** Decreto de Lei 18/2017 de 10 de fevereiro**
-  _in_ https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-107599171
- 
-Art 11 d) cooperacao e solidariedade entre CRI e a instituicao
-e) articulacao c demais servicos
-h) ética
+**Decreto de Lei 18/2017, de 10 de fevereiro**
+_in_ https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-107599171
 
-Portaria n.º 147/2017, de 27 de abril 
-SIGA. Nd imptt
+_Regula o Regime Jurídico e os Estatutos aplicáveis às unidades de saúde do Serviço Nacional de Saúde com a natureza de Entidades Públicas Empresariais, bem como as integradas no Setor Público Administrativo_
 
-Portaria n.º 153/2017, de 4 de maio
-N imp mas interessante pq tem tempo maximo p consultas, exames, cirurgias
+- Revogado pelo Decreto-Lei n.º 52/2022, de 4 de agosto
 
-Portaria n.º 207/2017, de 11 de julho
-https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-116351585
-tem as tabelas c os preços
-Art 9 d) Independentemente dos GDH em que o episódio seja agrupado, os procedimentos realizados em ambulatório, a que correspondem os códigos de procedimento da ICD-10-CM/PCS previstos na tabela VI do Anexo III à presente portaria, da qual faz parte integrante, são faturados ao preço de 864 (euro).
-e) Independentemente dos GDH em que o episódio seja agrupado, os procedimentos realizados em ambulatório, a que correspondem os códigos de procedimento da ICD-10-CM/PCS previstos na tabela VII do Anexo III à presente portaria, da qual faz parte integrante, são faturados ao preço de 513 (euro).
-7 - Nos serviços organizados em CRI, e para a produção adicional interna referida no número anterior, o valor a pagar aos colaboradores envolvidos na realização desta produção pode variar entre 40 % e 70 % (normal 35 e 55%
-11 - O pagamento da produção cirúrgica adicional, quando realizada no âmbito do SIGIC e se tenha verificado a realização de intervenções com múltiplos procedimentos independentes, ou múltiplas intervenções, é acrescido de um valor correspondente ao somatório de 45 % do valor dos GDH que lhes correspondam, até ao máximo acumulado de 45 % do valor do GDH considerado principal. 12 - O valor referido no n.º 4 do artigo 4.º é acrescido de 30 % quando os procedimentos realizados correspondam a patologia neoplásica maligna devidamente documentada por exames de anatomia patológica
-Portaria 71/2018 de 8 de março
-- devido a duvidas sobre o regime dos trabalhadores e diretor dos CRI, clarifica que  devem ter preferencia os c exclusividade, e excepcoes devidamente fundamentadas pelo CA.
-Assim...
+
+**Decreto-Lei n.º 52/2022, de 4 de agosto**
+_in_ https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881 
+
+_Aprova o Estatuto do Serviço Nacional de Saúde_
+
+Artigo 91.º
+- d) Cooperação e solidariedade entre os elementos que constituem o CRI, e de cada CRI perante a restante instituição;
+- e) Articulação, com as demais estruturas e serviços da instituição;
+
+
+**Portaria n.º 147/2017, de 27 de abril**
+_in_ https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2018-115366795
+
+_Regula o Sistema Integrado de Gestão do Acesso dos utentes ao Serviço Nacional de Saúde (SIGA SNS)_
+- Sem referência significativa aos CRI.
+
+
+**Portaria n.º 153/2017, de 4 de maio**
+_in_ https://diariodarepublica.pt/dr/detalhe/portaria/153-2017-106970981
+
+_Define os Tempos Máximos de Resposta Garantidos (TMRG) no Serviço Nacional de Saúde para todo o tipo de prestações de saúde sem caráter de urgência e aprova e publica a Carta de Direitos de Acesso aos Cuidados de Saúde pelos Utentes do SNS_
+
+- Sem referência significativa aos CRI. Interessante pois definie os tempos máximos para consultas, MCDT, cirurgias, etc.
+
+
+**Portaria n.º 207/2017, de 11 de julho**
+_in_ https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-116351585
+
+_Aprova os Regulamentos e as Tabelas de Preços das Instituições e Serviços Integrados no Serviço Nacional de Saúde, procede à regulamentação do Sistema Integrado de Gestão de Inscritos para Cirurgia (SIGIC), que passa a integrar o Sistema Integrado de Gestão do Acesso (SIGA SNS), e define os preços e as condições em que se pode efetuar a remuneração da produção adicional_
+
+- Portaria com as tabelas de preços.
+
+Artigo 9.º 
+- d) Independentemente dos GDH em que o episódio seja agrupado, os procedimentos realizados em ambulatório, a que correspondem os códigos de procedimento da ICD-10-CM/PCS previstos na tabela VI do Anexo III à presente portaria, da qual faz parte integrante, são faturados ao preço de 864 (euro).
+- e) Independentemente dos GDH em que o episódio seja agrupado, os procedimentos realizados em ambulatório, a que correspondem os códigos de procedimento da ICD-10-CM/PCS previstos na tabela VII do Anexo III à presente portaria, da qual faz parte integrante, são faturados ao preço de 513 (euro).
+
+Artigo 4.º (Secção II)
+7 - Nos serviços organizados em CRI, e para a produção adicional interna referida no número anterior, o valor a pagar aos colaboradores envolvidos na realização desta produção pode variar entre 40 % e 70 %, em função, entre outros aspetos, da tipologia da atividade, da necessidade de assegurar o cumprimento dos TMRG, de não conformidade identificadas, do grupo de patologias em causa e do número de profissionais envolvidos.
+    - O normal é entre 35 e 55%
+
+11 - O pagamento da produção cirúrgica adicional, quando realizada no âmbito do SIGIC e se tenha verificado a realização de intervenções com múltiplos procedimentos independentes, ou múltiplas intervenções, é acrescido de um valor correspondente ao somatório de 45 % do valor dos GDH que lhes correspondam, até ao máximo acumulado de 45 % do valor do GDH considerado principal. 
+
+12 - O valor referido no n.º 4 do artigo 4.º é acrescido de 30 % quando os procedimentos realizados correspondam a patologia neoplásica maligna devidamente documentada por exames de anatomia patológica
+
+
+**Portaria 71/2018, de 8 de março**
+_in_ https://diariodarepublica.pt/dr/detalhe/portaria/71-2018-114832292
+
+Faz as seguintes alterações à Portaria n.º 330/2017, de 31 de outubro (que define o modelo do regulamento interno dos CRI)
+
+Tendo-se suscitado dúvidas quanto ao regime em que deverão laborar os trabalhadores que vierem a integrar os CRI, bem como do respetivo diretor, importa proceder à devida clarificação no sentido de terem preferência aqueles que exerçam toda a sua atividade profissional naquelas Unidades, sem prejuízo da possibilidade de exceções por deliberação fundamentada do Conselho de Administração.
 
 Os artigos 3.º e 5.º do Modelo de Regulamento Interno dos Centros de Responsabilidade Integrados, anexo à Portaria 330/2017, de 31 de outubro, passam a ter a seguinte redação:
 
@@ -59,14 +97,18 @@ Artigo 5.º
 
 
 
-Portaria n.º 330/2017
-4 - O recrutamento de profissionais externos ao ..., E. P. E., depende da fundamentada inexistência de colaboradores com o perfil adequado às necessidades do CRI, bem como da demonstração de imprescindibilidade dos elementos pretendidos, e de concordância expressa do conselho de administração.
+**Portaria n.º 330/2017**
+_in_ https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-114834104 (versão consolidada)
 
-3 - Não é permitida a acumulação de funções de diretor do CRI com qualquer outro cargo de coordenação ou direção na instituição do SNS, salvo o disposto no número seguinte.
-4 - Sempre que um CRI seja constituído por um único serviço clínico, o respetivo diretor acumula a função de diretor do CRI e do serviço.
-5 - Sem prejuízo do disposto no n.º 3 do artigo 3.º, o diretor do CRI é um médico de reconhecido mérito, que obrigatoriamente possua formação e competência reconhecidas em gestão, e deve exercer toda a sua atividade profissional na instituição
+- O recrutamento de profissionais externos ao ..., E. P. E., depende da fundamentada inexistência de colaboradores com o perfil adequado às necessidades do CRI, bem como da demonstração de imprescindibilidade dos elementos pretendidos, e de concordância expressa do conselho de administração.
 
-c) O plano de contingência para assegurar os níveis mínimos de serviço em situações de ausência de alguns elementos da equipa ou de carência de outros recursos;
+- Não é permitida a acumulação de funções de diretor do CRI com qualquer outro cargo de coordenação ou direção na instituição do SNS, salvo o disposto no número seguinte.
+
+- Sempre que um CRI seja constituído por um único serviço clínico, o respetivo diretor acumula a função de diretor do CRI e do serviço.
+
+- Sem prejuízo do disposto no n.º 3 do artigo 3.º, o diretor do CRI é um médico de reconhecido mérito, que obrigatoriamente possua formação e competência reconhecidas em gestão, e deve exercer toda a sua atividade profissional na instituição
+
+- O plano de contingência para assegurar os níveis mínimos de serviço em situações de ausência de alguns elementos da equipa ou de carência de outros recursos;
 
 2 - Sempre que as situações e circunstâncias o justifiquem, o conselho de administração pode proceder à contratação de profissionais a alocar ao CRI, em regime de contrato de trabalho a termo certo, em regime de trabalho a tempo completo ou parcial, até ao limite máximo de metade da carga horária total dos elementos do mapa de pessoal do CRI.
 
