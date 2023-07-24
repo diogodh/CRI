@@ -35,10 +35,10 @@ https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-10759917
 
 > Regula o Regime Jurídico e os Estatutos aplicáveis às unidades de saúde do Serviço Nacional de Saúde com a natureza de Entidades Públicas Empresariais, bem como as integradas no Setor Público Administrativo
 
-- Revogado pelo Decreto-Lei n.º 52/2022, de 4 de agosto
-- 
+- **Revogado pelo Decreto-Lei n.º 52/2022, de 4 de agosto**
+  
   - Neste novo decreto 52/2022, **desaparece** a seguinte alínea:
-  - 
+    
     - h) Comportamento ético, deontológico e sentido de serviço público, cabendo a cada profissional do CRI a salvaguarda da legalidade e do interesse público, a defesa dos interesses do doente, a prossecução do melhor desempenho do CRI e da instituição em que se integra, devendo agir com honestidade, lisura e de acordo com a deontologia e as boas práticas;
 
 
@@ -89,24 +89,6 @@ https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-116351585
   - 11 - O pagamento da produção cirúrgica adicional, quando realizada no âmbito do SIGIC e se tenha verificado a realização de intervenções com múltiplos procedimentos independentes, ou múltiplas intervenções, é acrescido de um valor correspondente ao somatório de 45 % do valor dos GDH que lhes correspondam, até ao máximo acumulado de 45 % do valor do GDH considerado principal. 
 
   - 12 - O valor referido no n.º 4 do artigo 4.º é acrescido de 30 % quando os procedimentos realizados correspondam a patologia neoplásica maligna devidamente documentada por exames de anatomia patológica
-
-
-## Portaria 71/2018, de 8 de março ##
-https://diariodarepublica.pt/dr/detalhe/portaria/71-2018-114832292
-
-> Faz as seguintes alterações à Portaria n.º 330/2017, de 31 de outubro (que define o modelo do regulamento interno dos CRI)
-
-- _Tendo-se suscitado dúvidas quanto ao regime em que deverão laborar os trabalhadores que vierem a integrar os CRI, bem como do respetivo diretor, importa proceder à devida clarificação no sentido de terem preferência aqueles que exerçam toda a sua atividade profissional naquelas Unidades, sem prejuízo da possibilidade de exceções por deliberação fundamentada do Conselho de Administração._
-
-- Os artigos 3.º e 5.º do Modelo de Regulamento Interno dos Centros de Responsabilidade Integrados, anexo à Portaria 330/2017, de 31 de outubro, passam a ter a seguinte redação:
-
-- Artigo 3.º
-  - 2 - Sem prejuízo do disposto no número seguinte, o pessoal a afetar ao CRI deve preferencialmente exercer toda a sua atividade profissional na instituição.
-  - 3 - A regra prevista no número anterior pode ser dispensada por deliberação fundamentada do conselho de administração.
-
-- Artigo 5.º
-  - 5 - Sem prejuízo do disposto no n.º 3 do artigo 3.º, o diretor do CRI é um médico de reconhecido mérito, que obrigatoriamente possua formação e competência reconhecidas em gestão, e deve exercer toda a sua atividade profissional na instituição», artigo 3 da 330/2017  alinea 2)
-
 
 
 ## Portaria n.º 330/2017, de 31 de outubro ##
@@ -171,6 +153,26 @@ https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-114834104 (
 - No entanto, como já vimos anteriormente, a Portaria n.º 71/2018, de 8 de março alterou essa alínea para:
   _- 2 - Sem prejuízo do disposto no número seguinte, o pessoal a afetar ao CRI deve preferencialmente exercer toda a sua atividade profissional na instituição.
   - 3 - A regra prevista no número anterior pode ser dispensada por deliberação fundamentada do conselho de administração._
+
+
+
+## Portaria 71/2018, de 8 de março ##
+https://diariodarepublica.pt/dr/detalhe/portaria/71-2018-114832292
+
+> Faz as seguintes alterações à Portaria n.º 330/2017, de 31 de outubro (que define o modelo do regulamento interno dos CRI)
+
+- _Tendo-se suscitado dúvidas quanto ao regime em que deverão laborar os trabalhadores que vierem a integrar os CRI, bem como do respetivo diretor, importa proceder à devida clarificação no sentido de terem preferência aqueles que exerçam toda a sua atividade profissional naquelas Unidades, sem prejuízo da possibilidade de exceções por deliberação fundamentada do Conselho de Administração._
+
+- Os artigos 3.º e 5.º do Modelo de Regulamento Interno dos Centros de Responsabilidade Integrados, anexo à Portaria 330/2017, de 31 de outubro, passam a ter a seguinte redação:
+
+- Artigo 3.º
+  - 2 - Sem prejuízo do disposto no número seguinte, o pessoal a afetar ao CRI deve preferencialmente exercer toda a sua atividade profissional na instituição.
+  - 3 - A regra prevista no número anterior pode ser dispensada por deliberação fundamentada do conselho de administração.
+
+- Artigo 5.º
+  - 5 - Sem prejuízo do disposto no n.º 3 do artigo 3.º, o diretor do CRI é um médico de reconhecido mérito, que obrigatoriamente possua formação e competência reconhecidas em gestão, e deve exercer toda a sua atividade profissional na instituição», artigo 3 da 330/2017  alinea 2)
+
+
 
 ## Ordem dos Médicos ##
 https://ordemdosmedicos.pt/centros-de-responsabilidade-integrada-proposta-de-portaria-e-inaceitavel/
