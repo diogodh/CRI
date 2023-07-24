@@ -3,7 +3,7 @@
 <p>Compilação de várias fontes de informação legal relativa aos Centros de Responsabilidade Integrados dos Hospitais E.P.E. do SNS.
 </p>
 
-**Termos de Referência para contratualização de cuidados de saúde no SNS para 2023** 
+<p style="text-align: right;">Text_content**Termos de Referência para contratualização de cuidados de saúde no SNS para 2023** </p>
 _in_ https://www.acss.min-saude.pt/wp-content/uploads/2016/10/Termos-Referencia-Contratualizacao_2023.pdf
 
 - Alargar o modelo de organização em Centros de Responsabilidade Integrado
